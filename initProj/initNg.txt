@@ -1,0 +1,13 @@
+action: run cmd
+ng new projNgTestThree --skip-install 
+
+action: create file in project root
+.npmrc
+
+action: add content to .npmrc file
+registry=http://localhost:4873
+
+action: append content to .gitignor file 
+
+#.npmrc
+.npmrc

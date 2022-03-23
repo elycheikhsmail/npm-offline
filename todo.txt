@@ -1,0 +1,5 @@
+command for
+create .npmrc file with needed content and append somme lines to .gitignore file
+will be name npmoff
+npmoff all
+npmoff --help
